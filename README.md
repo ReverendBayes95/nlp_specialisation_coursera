@@ -45,3 +45,27 @@ Through the course assignments in this repo, you'll see implementations and appl
 
 Each course has its own directory:
 
+Each directory includes:
+- Weekly assignment notebooks
+- Helper scripts (if provided)
+- Model checkpoints and results (where applicable)
+
+---
+
+## ⚠️ Disclaimer
+
+All code in this repository is provided for **educational purposes only**. It reflects my personal solutions to the course assignments. If you're currently enrolled in the specialization, I encourage you to try solving the assignments on your own first to maximize learning.
+
+---
+
+## 📌 Acknowledgements
+
+- [Coursera: NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+- [DeepLearning.AI](https://www.deeplearning.ai/)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you have questions or want to collaborate!
+
